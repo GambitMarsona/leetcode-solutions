@@ -1,2 +1,4 @@
 # ignoruj Jupyter Notebook z algorytmami
 algorithms.ipynb
+#ignoruj plik licznik
+counter.py
